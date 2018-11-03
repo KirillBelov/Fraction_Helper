@@ -1,4 +1,4 @@
-
+# Автор этой проги - KirillBelov
 
 num11 = int (input("Enter 1st numerator: "))
 num12 = int (input("Enter 1st denominator: "))
